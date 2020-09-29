@@ -12,6 +12,9 @@ how to run: simply right click on it. Or open command prompt. Set path where you
 
          for example : 
          
-                 cd Desktop/
+                 Microsoft Windows [Version 10.0.26381.2801]
+                 (c) 2019 Microsoft Corporation. All rights reserved.
+
+                 C:\Users\Sank> cd Desktop/
                  
-                 python filename.py
+                 C:\Users\Sank> python filename.py
